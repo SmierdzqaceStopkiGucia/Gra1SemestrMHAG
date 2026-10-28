@@ -1203,3 +1203,141 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/Mi_Kulka_Inst has a v
 [2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.10.28-11.06.19:230][702]AssetCheck: /Game/Blueprints/BP_projectile Validating asset
 [2026.10.28-11.06.19:236][702]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-11.12.11:869][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1341.879150
+[2026.10.28-11.12.12:011][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-11.12.12:011][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1342.012939, Update Interval: 331.401703
+[2026.10.28-11.13.06:055][958]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.13.06:060][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Tile.BP_Tile
+[2026.10.28-11.13.06:060][958]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.10.28-11.13.06:981][958]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.10.28-11.13.07:001][958]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.10.28-11.14.18:530][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.28-11.14.18:532][321]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.14.18:534][321]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Main
+[2026.10.28-11.14.18:536][321]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LV_Main.LV_Main
+[2026.10.28-11.14.18:536][321]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-11.14.18:558][321]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.14.18:558][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.14.18:558][321]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.10.28-11.14.18:578][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-11.14.18:589][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.28-11.14.18:590][321]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.14.18:590][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.14.18:609][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.10.28-11.14.18:662][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.28-11.14.18:664][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Main'.
+[2026.10.28-11.14.18:664][321]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Main
+[2026.10.28-11.14.18:684][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-11.14.18:702][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.10.28-11.14.18:707][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-11.14.18:707][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,044ms to complete.
+[2026.10.28-11.14.18:759][322]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-11.18.00:564][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1690.582520
+[2026.10.28-11.18.00:714][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-11.18.00:714][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1690.724487, Update Interval: 319.995728
+[2026.10.28-11.18.51:037][913]LogSlate: Window 'BP_Tile' being destroyed
+[2026.10.28-11.18.51:044][913]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.18.51:044][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.18.51:084][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.28-11.19.03:226][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.10.28-11.19.03:227][321]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.19.03:228][321]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.10.28-11.19.03:229][321]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestLevel.TestLevel
+[2026.10.28-11.19.03:229][321]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-11.19.03:240][321]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.03:241][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.03:257][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-11.19.03:259][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.28-11.19.03:260][321]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.03:260][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.03:278][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-11.19.03:298][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.28-11.19.03:299][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2026.10.28-11.19.03:299][321]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.10.28-11.19.03:354][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-11.19.03:374][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.10.28-11.19.03:379][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-11.19.03:379][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,044ms to complete.
+[2026.10.28-11.19.03:432][322]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-11.19.16:202][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.10.28-11.19.16:204][807]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.19.16:205][807]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Main
+[2026.10.28-11.19.16:206][807]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LV_Main.LV_Main
+[2026.10.28-11.19.16:206][807]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-11.19.16:217][807]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.16:217][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.16:234][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-11.19.16:237][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.10.28-11.19.16:238][807]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.16:238][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.16:256][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.28-11.19.16:273][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.10.28-11.19.16:274][807]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Main'.
+[2026.10.28-11.19.16:274][807]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Main
+[2026.10.28-11.19.16:339][807]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-11.19.16:360][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.28-11.19.16:366][807]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-11.19.16:366][807]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,042ms to complete.
+[2026.10.28-11.19.16:431][808]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-11.19.20:965][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.10.28-11.19.20:967][310]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LV_Main.LV_Main
+[2026.10.28-11.19.20:967][310]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-11.19.20:977][310]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.20:977][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.20:995][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-11.19.20:996][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.10.28-11.19.20:997][310]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.19.20:998][310]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Main'.
+[2026.10.28-11.19.20:998][310]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Main
+[2026.10.28-11.19.21:016][310]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-11.19.21:035][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.10.28-11.19.21:040][310]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-11.19.21:041][310]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,039ms to complete.
+[2026.10.28-11.19.21:068][311]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-11.19.30:942][456]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.10.28-11.19.30:964][456]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.10.28-11.19.34:983][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.10.28-11.19.34:985][901]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.19.34:987][901]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.10.28-11.19.34:988][901]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestLevel.TestLevel
+[2026.10.28-11.19.34:988][901]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-11.19.34:999][901]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.34:999][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.35:017][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-11.19.35:018][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.28-11.19.35:019][901]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-11.19.35:019][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-11.19.35:036][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.28-11.19.35:053][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.28-11.19.35:054][901]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2026.10.28-11.19.35:054][901]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.10.28-11.19.35:123][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-11.19.35:142][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.28-11.19.35:147][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-11.19.35:147][901]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,039ms to complete.
+[2026.10.28-11.19.35:199][902]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-11.20.11:222][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-11.20.11:300][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.10.28-11.20.11:305][175]LogSavePackage: Moving output files for package: /Game/Levels/TestLevel
+[2026.10.28-11.20.11:305][175]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/TestLevel5E10266F4A046B116BDFE59A3989C050.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/TestLevel.umap'
+[2026.10.28-11.20.11:310][175]LogFileHelpers: Saving map 'TestLevel' took 0.039
+[2026.10.28-11.20.11:316][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.340 ms (total: 104.445 ms)
+[2026.10.28-11.20.11:353][175]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-11.20.11:353][175]LogContentValidation: Enabled validators:
+[2026.10.28-11.20.11:353][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-11.20.11:353][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-11.20.11:353][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-11.20.11:353][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-11.20.11:353][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-11.20.11:353][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-11.20.11:353][175]AssetCheck: /Game/Levels/TestLevel Validating asset
