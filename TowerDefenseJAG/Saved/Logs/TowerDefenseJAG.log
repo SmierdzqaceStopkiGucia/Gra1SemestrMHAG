@@ -1289,3 +1289,985 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/Mi_Kulka_Inst has a v
 [2026.10.28-09.45.53:521][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.10.28-09.45.53:521][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.10.28-09.45.53:521][ 94]AssetCheck: /Game/Levels/TestLevel Validating asset
+[2026.10.28-09.47.01:948][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 328.289856
+[2026.10.28-09.47.02:105][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.47.02:105][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 328.439636, Update Interval: 311.689819
+[2026.10.28-09.48.52:672][364]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-09.48.52:871][364]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.10.28-09.48.52:871][364]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.10.28-09.48.52:871][364]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.10.28-09.48.52:871][364]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.10.28-09.48.52:874][364]LogWorldPartition: Display: WorldPartition initialize took 2.368 ms (total: 212.559 ms)
+[2026.10.28-09.48.52:896][364]LogObjectTools: Deleting 1 worlds: /Game/NewMap.NewMap
+[2026.10.28-09.48.52:897][364]LogObjectTools: Currently 3 active worlds: /Game/Levels/TestLevel.TestLevel, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2026.10.28-09.48.52:911][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.28-09.49.03:424][364]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.28-09.49.03:431][364]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-09.49.03:439][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-09.49.03:439][364]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2026.10.28-09.49.03:543][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.10.28-09.49.03:557][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.28-09.49.03:569][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.10.28-09.49.12:309][356]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.28-09.49.12:314][356]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.28-09.49.12:321][357]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.28-09.49.17:093][930]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.10.28-09.49.17:093][930]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.28-09.49.20:059][269]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.28-09.49.20:064][269]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.28-09.49.20:080][271]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.28-09.49.23:058][629]LogContentBrowser: Attempting asset rename: NewFolder -> BP_Tile
+[2026.10.28-09.49.23:058][629]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.28-09.49.52:285][713]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.10.28-09.49.52:292][713]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.28-09.49.52:297][713]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.28-09.49.52:313][715]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.28-09.49.55:613][108]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Tile
+[2026.10.28-09.49.55:618][108]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.28-09.50.01:782][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Tile.BP_Tile
+[2026.10.28-09.50.01:782][826]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.10.28-09.50.01:939][826]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-09.50.02:708][826]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.10.28-09.50.02:711][826]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.10.28-09.50.08:199][304]LogSlate: Window 'BP_Tile' being destroyed
+[2026.10.28-09.50.08:203][304]LogSlate: Window 'BP_Tile' being destroyed
+[2026.10.28-09.50.08:211][304]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-09.50.08:211][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-09.50.08:256][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.10.28-09.50.09:648][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Tile.BP_Tile
+[2026.10.28-09.50.09:648][318]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.10.28-09.50.16:531][ 24]LogSlate: Window 'BP_Tile' being destroyed
+[2026.10.28-09.50.16:537][ 24]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-09.50.16:537][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-09.50.16:548][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Tile.BP_Tile
+[2026.10.28-09.50.16:548][ 24]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.10.28-09.50.16:895][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.10.28-09.50.16:901][ 24]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.10.28-09.50.19:237][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.10.28-09.50.21:197][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.50.21:255][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-09.50.21:255][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-09.50.21:255][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-09.50.21:258][476]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-09.50.21:258][476]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_TileB13E893146296274BDE90B8091ABEC2E.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-09.50.21:264][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.379 ms (total: 193.467 ms)
+[2026.10.28-09.50.21:302][476]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.50.21:302][476]LogContentValidation: Enabled validators:
+[2026.10.28-09.50.21:302][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.50.21:302][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.50.21:302][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.50.21:302][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.50.21:302][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.50.21:302][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.50.21:302][476]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-09.50.21:318][476]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-09.51.11:775][275]LogSlate: Window 'BP_Tile' being destroyed
+[2026.10.28-09.51.11:779][275]LogSlate: Window 'BP_Tile' being destroyed
+[2026.10.28-09.51.11:781][275]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-09.51.11:781][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-09.51.11:819][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.28-09.51.12:815][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Tile.BP_Tile
+[2026.10.28-09.51.12:817][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.10.28-09.51.29:805][299]LogEditorTransaction: Undo Add Component
+[2026.10.28-09.52.05:568][259]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.10.28-09.52.16:970][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 643.317505
+[2026.10.28-09.52.17:139][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.52.17:139][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 643.478760, Update Interval: 309.318512
+[2026.10.28-09.53.05:350][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.BP_Tile_C_0.Static Mesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.53.06:165][125]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.BP_Tile_C_0.Static Mesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: ================================================
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Total job queries 453, among them cache hits 31 (6.84%), DDC hits 341 (75.28%), Duplicates 76 (16.78%)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Tracking 346 distinct input hashes that result in 238 distinct outputs (68.79%)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: RAM used: 3,31 MiB of 6,40 GiB budget. Usage: 0.05%
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.82 s
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 0.88
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Shader code size: total 45,469 KiB, numShaders 5, average 9,094 KiB, min 7,43 KiB, max 11,324 KiB
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.88 s
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Average processing rate: 5.68 jobs/sec
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Total thread time: 1,82 s
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Total thread preprocess time: 4,915 s
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Percentage time preprocessing: 270.00%
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.147796
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.53.35:949][477]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 34.99% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.82% of total time (compiled    2 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.89% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.29% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: === Material stats ===
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: Materials Translated:    141
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
+[2026.10.28-09.53.35:951][477]LogShaderCompilers: Display: ================================================
+[2026.10.28-09.54.22:456][728]LogEditorTransaction: Undo Add Component
+[2026.10.28-09.57.34:399][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 960.746521
+[2026.10.28-09.57.34:573][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-09.57.34:573][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 960.912231, Update Interval: 336.644196
+[2026.10.28-09.57.38:096][123]LogEditorTransaction: Undo Add New Event Dispatcher
+[2026.10.28-09.59.39:272][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.10.28-09.59.40:271][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-09.59.40:333][ 50]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-09.59.40:352][ 50]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-09.59.40:352][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-09.59.40:352][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-09.59.40:363][ 50]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-09.59.40:364][ 50]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_TileD9CFCC484C1334246D455FAE325BA094.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-09.59.40:369][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.668 ms (total: 292.135 ms)
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: Enabled validators:
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-09.59.40:431][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-09.59.40:431][ 50]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-09.59.46:540][523]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.10.28-09.59.46:547][523]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.28-09.59.46:553][523]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.28-09.59.46:564][524]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.28-09.59.50:457][989]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Player
+[2026.10.28-09.59.50:462][989]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.28-09.59.55:909][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2026.10.28-09.59.55:911][614]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.10.28-10.00.04:010][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.00.04:065][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.10.28-10.00.04:065][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2026.10.28-10.00.04:065][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2026.10.28-10.00.04:067][418]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2026.10.28-10.00.04:067][418]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Player59995FB44B5497D3F3CC948835085C4D.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset'
+[2026.10.28-10.00.04:075][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.040 ms (total: 357.175 ms)
+[2026.10.28-10.00.04:111][418]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.00.04:111][418]LogContentValidation: Enabled validators:
+[2026.10.28-10.00.04:111][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.00.04:111][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.00.04:111][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.00.04:111][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.00.04:111][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.00.04:111][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.00.04:111][418]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2026.10.28-10.00.04:127][418]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-10.00.22:634][450]LogStreaming: Display: FlushAsyncLoading(962): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-10.01.09:438][259]LogEditorTransaction: Undo Modify Component(s)
+[2026.10.28-10.02.20:943][570]LogEditorTransaction: Undo Set Location
+[2026.10.28-10.02.22:719][704]LogEditorTransaction: Undo Modify Component(s)
+[2026.10.28-10.02.26:139][ 26]LogEditorTransaction: Undo Set Rotation
+[2026.10.28-10.02.28:084][178]LogEditorTransaction: Undo Reset Rotation
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: ================================================
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Total job queries 461, among them cache hits 34 (7.38%), DDC hits 344 (74.62%), Duplicates 76 (16.49%)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Tracking 351 distinct input hashes that result in 241 distinct outputs (68.66%)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: RAM used: 3,33 MiB of 6,40 GiB budget. Usage: 0.05%
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Average time worker was idle: 278.13 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.82 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 0.88
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Shader code size: total 65,156 KiB, numShaders 7, average 9,308 KiB, min 7,43 KiB, max 11,543 KiB
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.01 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Average processing rate: 3.48 jobs/sec
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Total thread time: 2,562 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Total thread preprocess time: 4,975 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Percentage time preprocessing: 194.19%
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Effective parallelization: 1.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.090865
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.26 sec, max 0.27 sec, min 0.25 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 37.58% of total time (compiled    2 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.96% of total time (compiled    3 times, average 0.26 sec, max 0.27 sec, min 0.25 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 24.86% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.60% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: === Material stats ===
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Materials Translated:    142
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Material Translation Only: 0.03 s (26%)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
+[2026.10.28-10.02.35:961][983]LogShaderCompilers: Display: ================================================
+[2026.10.28-10.02.48:249][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.28-10.02.49:139][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.02.49:175][342]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.10.28-10.02.49:175][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2026.10.28-10.02.49:175][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2026.10.28-10.02.49:178][342]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2026.10.28-10.02.49:178][342]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_PlayerBBF6081D413B81911309CCAB98620E19.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset'
+[2026.10.28-10.02.49:184][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.578 ms (total: 401.753 ms)
+[2026.10.28-10.02.49:246][342]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.02.49:246][342]LogContentValidation: Enabled validators:
+[2026.10.28-10.02.49:246][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.02.49:246][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.02.49:246][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.02.49:246][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.02.49:246][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.02.49:246][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.02.49:247][342]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2026.10.28-10.02.50:809][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.28-10.02.50:814][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.28-10.02.50:819][502]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.10.28-10.02.50:819][502]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.10.28-10.02.50:819][502]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2026.10.28-10.02.50:820][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2026.10.28-10.02.50:820][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.000932s)
+[2026.10.28-10.02.50:840][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.28-10.02.50:841][502]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.10.28-10.02.50:843][502]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2026.10.28-10.02.50:844][502]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.28-10.02.50:844][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.28-10.02.50:844][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.28-10.02.50:844][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.28-10.02.50:844][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.28-10.02.50:844][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.28-10.02.50:845][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.28-10.02.50:876][502]LogAudioMixer: Display: Using Audio Hardware Device SPDIF Interface (Realtek USB2.0 Audio)
+[2026.10.28-10.02.50:876][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.28-10.02.50:876][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.28-10.02.50:876][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.28-10.02.50:877][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.10.28-10.02.50:877][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.10.28-10.02.50:879][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.10.28-10.02.50:879][502]LogInit: FAudioDevice initialized with ID 2.
+[2026.10.28-10.02.50:879][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.10.28-10.02.50:879][502]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2026.10.28-10.02.50:879][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.28-10.02.50:882][502]LogLoad: Game class is 'GameModeBase'
+[2026.10.28-10.02.50:883][502]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2026.10.28-11.02.50
+[2026.10.28-10.02.50:883][502]LogWorld: Bringing up level for play took: 0.000647
+[2026.10.28-10.02.50:884][502]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.10.28-10.02.50:897][502]PIE: Server logged in
+[2026.10.28-10.02.50:899][502]PIE: Play in editor total start time 0,086 seconds.
+[2026.10.28-10.02.50:968][503]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-10.02.53:637][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.28-10.02.53:637][807]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2026.10.28-10.02.53:637][807]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.02.53:637][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.02.53:638][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.28-10.02.53:640][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.02.53:660][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.28-10.02.53:660][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.28-10.02.53:660][807]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.10.28-10.02.53:663][807]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.10.28-10.02.53:668][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.10.28-10.02.53:716][808]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.10.28-10.03.06:927][201]LogSlate: Took 0.015415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.10.28-10.03.25:330][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1311.678711
+[2026.10.28-10.03.25:731][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-10.03.25:731][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1312.071289, Update Interval: 330.980560
+[2026.10.28-10.04.54:733][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.04.54:795][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.10.28-10.04.54:795][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2026.10.28-10.04.54:795][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2026.10.28-10.04.54:798][179]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2026.10.28-10.04.54:799][179]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Player8B7990364C48B46CF65DB2A933BB2831.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset'
+[2026.10.28-10.04.54:805][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.089 ms (total: 473.843 ms)
+[2026.10.28-10.04.54:860][179]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.04.54:860][179]LogContentValidation: Enabled validators:
+[2026.10.28-10.04.54:860][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.04.54:860][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.04.54:860][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.04.54:860][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.04.54:860][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.04.54:860][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.04.54:860][179]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2026.10.28-10.05.08:977][659]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.10.28-10.05.08:985][659]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.28-10.05.08:992][659]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.28-10.05.09:003][660]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.28-10.05.16:259][529]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_MyGameMode
+[2026.10.28-10.05.16:264][529]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.28-10.05.16:583][564]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode
+[2026.10.28-10.05.16:583][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.10.28-10.06.31:677][ 94]LogStreaming: Display: FlushAsyncLoading(963): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-10.06.31:680][ 94]LogStaticMesh: Display: Building static mesh cylinder (Required Memory Estimate: 0.138301 MB)...
+[2026.10.28-10.06.31:682][ 94]LogStaticMesh: Built static mesh [0.00s] /DatasmithContent/Meshes/cylinder.cylinder
+[2026.10.28-10.06.31:689][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.10.28-10.07.02:255][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.28-10.07.03:732][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.07.03:772][362]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.07.03:791][362]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.07.03:791][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.07.03:794][362]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.07.03:794][362]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameModeB57194A441D8E052014BCD831ABDA5C9.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.07.03:802][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.284 ms (total: 544.128 ms)
+[2026.10.28-10.07.03:860][362]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.07.03:860][362]LogContentValidation: Enabled validators:
+[2026.10.28-10.07.03:860][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.07.03:860][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.07.03:860][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.07.03:860][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.07.03:860][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.07.03:860][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.07.03:860][362]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.07.03:877][362]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-10.07.32:865][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.28-10.07.33:612][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.07.33:658][473]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.07.33:676][473]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.07.33:676][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.07.33:679][473]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.07.33:679][473]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameModeBA12C7BA4087E684EDEF368F174309CD.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.07.33:686][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.185 ms (total: 618.313 ms)
+[2026.10.28-10.07.33:740][473]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.07.33:740][473]LogContentValidation: Enabled validators:
+[2026.10.28-10.07.33:740][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.07.33:740][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.07.33:740][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.07.33:740][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.07.33:740][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.07.33:740][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.07.33:740][473]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: ================================================
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Total job queries 466, among them cache hits 36 (7.73%), DDC hits 345 (74.03%), Duplicates 76 (16.31%)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Tracking 354 distinct input hashes that result in 244 distinct outputs (68.93%)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: RAM used: 3,35 MiB of 6,40 GiB budget. Usage: 0.05%
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Shaders Compiled: 9
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Average time worker was idle: 437.36 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.82 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.88
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Shader code size: total 83,902 KiB, numShaders 9, average 9,322 KiB, min 7,43 KiB, max 11,543 KiB
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.71 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Average processing rate: 3.32 jobs/sec
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Total thread time: 3,241 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Total thread preprocess time: 5,014 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Percentage time preprocessing: 154.71%
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Effective parallelization: 1.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.085345
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.47 sec, max 0.49 sec, min 0.44 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.26 sec, max 0.27 sec, min 0.24 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 43.37% of total time (compiled    3 times, average 0.47 sec, max 0.49 sec, min 0.44 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.76% of total time (compiled    4 times, average 0.26 sec, max 0.27 sec, min 0.24 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 19.66% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.22% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: === Material stats ===
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Materials Translated:    142
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Material Translation Only: 0.03 s (26%)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: Material Cache Hits: 2 (1%)
+[2026.10.28-10.08.35:969][647]LogShaderCompilers: Display: ================================================
+[2026.10.28-10.09.21:080][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1667.425659
+[2026.10.28-10.09.21:230][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-10.09.21:230][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1667.567871, Update Interval: 321.239044
+[2026.10.28-10.09.43:474][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.28-10.09.44:090][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.09.44:138][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-10.09.44:161][587]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-10.09.44:161][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-10.09.44:161][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-10.09.44:165][587]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-10.09.44:166][587]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Tile8B8059174208B42090DA50B9CDA35149.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-10.09.44:172][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.725 ms (total: 701.038 ms)
+[2026.10.28-10.09.44:203][587]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.09.44:203][587]LogContentValidation: Enabled validators:
+[2026.10.28-10.09.44:203][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.09.44:203][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.09.44:203][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.09.44:203][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.09.44:203][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.09.44:203][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.09.44:203][587]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-10.10.03:445][828]LogEditorTransaction: Undo Add Variable
+[2026.10.28-10.10.59:291][349]LogEditorTransaction: Undo Move Node
+[2026.10.28-10.11.00:145][395]LogEditorTransaction: Undo Add In Parameter
+[2026.10.28-10.11.03:474][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.11.03:502][768]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.11.03:521][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.11.03:521][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.11.03:524][768]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.11.03:524][768]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode9A2B4045451D7F3EC92EF5905D690007.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.11.03:530][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.375 ms (total: 757.414 ms)
+[2026.10.28-10.11.03:590][768]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.11.03:590][768]LogContentValidation: Enabled validators:
+[2026.10.28-10.11.03:590][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.11.03:590][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.11.03:590][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.11.03:590][768]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.11.03:590][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.11.03:590][768]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.11.03:590][768]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.11.05:845][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.28-10.11.06:709][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.28-10.11.07:926][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.10.28-10.11.08:393][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.11.08:438][277]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-10.11.08:456][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-10.11.08:456][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-10.11.08:456][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-10.11.08:460][277]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-10.11.08:461][277]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_TileD0835F994F0919C963096A9BA662A783.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-10.11.08:466][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.420 ms (total: 830.835 ms)
+[2026.10.28-10.11.08:523][277]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.11.08:524][277]LogContentValidation: Enabled validators:
+[2026.10.28-10.11.08:524][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.11.08:524][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.11.08:524][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.11.08:524][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.11.08:524][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.11.08:524][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.11.08:524][277]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-10.11.09:405][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.11.09:437][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.10.28-10.11.09:437][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2026.10.28-10.11.09:437][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2026.10.28-10.11.09:440][367]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2026.10.28-10.11.09:440][367]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Player286F7BA44DB52E9091FF1DBC86F377EF.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset'
+[2026.10.28-10.11.09:444][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.113 ms (total: 870.948 ms)
+[2026.10.28-10.11.09:506][367]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.11.09:506][367]LogContentValidation: Enabled validators:
+[2026.10.28-10.11.09:506][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.11.09:506][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.11.09:506][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.11.09:506][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.11.09:506][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.11.09:506][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.11.09:506][367]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2026.10.28-10.11.10:987][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.11.11:039][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.11.11:058][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.11.11:058][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.11.11:060][535]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.11.11:061][535]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode4A28990A4732A711F231318EFC01142D.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.11.11:066][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.586 ms (total: 951.534 ms)
+[2026.10.28-10.11.11:121][535]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.11.11:121][535]LogContentValidation: Enabled validators:
+[2026.10.28-10.11.11:121][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.11.11:121][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.11.11:121][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.11.11:121][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.11.11:121][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.11.11:121][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.11.11:122][535]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.11.45:548][236]LogEditorTransaction: Undo Rename Variable
+[2026.10.28-10.11.46:137][250]LogEditorTransaction: Undo Add Variable
+[2026.10.28-10.12.20:924][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.28-10.12.20:928][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestLevel' took 0.026
+[2026.10.28-10.12.20:929][289]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.12.20:947][289]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.12.20:947][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.12.20:951][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GM_MyGameMode_Auto1
+[2026.10.28-10.12.20:951][289]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode_Auto1FB29905D450792D3118AA3812FFC6D41.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/Autosaves/Game/Blueprints/GM_MyGameMode_Auto1.uasset'
+[2026.10.28-10.12.20:952][289]LogFileHelpers: Auto-saving content packages took 0.023
+[2026.10.28-10.12.43:730][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.28-10.12.44:220][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.12.44:252][961]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.12.44:271][961]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.12.44:271][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.12.44:275][961]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.12.44:275][961]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode2BE2650647D93BF03CD6BB8C29695F35.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.12.44:281][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.057 ms (total: 1.01 sec)
+[2026.10.28-10.12.44:334][961]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.12.44:334][961]LogContentValidation: Enabled validators:
+[2026.10.28-10.12.44:334][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.12.44:334][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.12.44:334][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.12.44:334][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.12.44:334][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.12.44:334][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.12.44:334][961]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.12.57:517][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.12.57:571][452]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.12.57:589][452]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.12.57:589][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.12.57:593][452]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.12.57:594][452]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode2935A7C943D3B0C3EAEADDA5CD102530.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.12.57:598][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.015 ms (total: 1.09 sec)
+[2026.10.28-10.12.57:654][452]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.12.57:654][452]LogContentValidation: Enabled validators:
+[2026.10.28-10.12.57:654][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.12.57:654][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.12.57:654][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.12.57:654][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.12.57:654][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.12.57:655][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.12.57:655][452]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.12.58:416][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.28-10.15.28:750][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2035.107544
+[2026.10.28-10.15.28:908][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-10.15.28:908][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2035.256714, Update Interval: 354.585419
+[2026.10.28-10.15.31:771][224]LogEditorTransaction: Undo Remove Parameter
+[2026.10.28-10.15.32:658][274]LogEditorTransaction: Undo Add Out Parameter
+[2026.10.28-10.16.09:994][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.28-10.16.11:893][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.16.11:952][654]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-10.16.11:971][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-10.16.11:971][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-10.16.11:971][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-10.16.11:976][654]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-10.16.11:976][654]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Tile2856CB7E4106D07F380FD28946F8A086.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-10.16.11:981][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.221 ms (total: 1.18 sec)
+[2026.10.28-10.16.12:036][654]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.16.12:036][654]LogContentValidation: Enabled validators:
+[2026.10.28-10.16.12:036][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.16.12:036][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.16.12:036][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.16.12:036][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.16.12:036][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.16.12:036][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.16.12:036][654]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-10.18.17:700][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.28-10.18.18:106][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.18.18:148][134]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.18.18:170][134]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.18.18:170][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.18.18:173][134]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.18.18:174][134]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode34E1C824446FA233D289DFA94AA85C1E.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.18.18:179][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.153 ms (total: 1.25 sec)
+[2026.10.28-10.18.18:214][134]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.18.18:214][134]LogContentValidation: Enabled validators:
+[2026.10.28-10.18.18:214][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.18.18:214][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.18.18:214][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.18.18:214][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.18.18:214][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.18.18:214][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.18.18:214][134]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.18.19:054][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.18.19:081][230]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-10.18.19:101][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-10.18.19:101][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-10.18.19:101][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-10.18.19:106][230]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-10.18.19:106][230]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_TileE4F0DAFA49340630F190D08C5315A1C9.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-10.18.19:111][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.716 ms (total: 1.31 sec)
+[2026.10.28-10.18.19:168][230]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.18.19:168][230]LogContentValidation: Enabled validators:
+[2026.10.28-10.18.19:168][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.18.19:168][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.18.19:168][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.18.19:168][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.18.19:168][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.18.19:168][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.18.19:168][230]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-10.18.19:457][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.28-10.18.20:640][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.18.20:681][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.10.28-10.18.20:681][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2026.10.28-10.18.20:681][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2026.10.28-10.18.20:685][386]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2026.10.28-10.18.20:685][386]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Player4BC7A9DE4BCA2C2417E08CAFEF4E0EB9.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Player.uasset'
+[2026.10.28-10.18.20:693][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.194 ms (total: 1.36 sec)
+[2026.10.28-10.18.20:730][386]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.18.20:731][386]LogContentValidation: Enabled validators:
+[2026.10.28-10.18.20:731][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.18.20:731][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.18.20:731][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.18.20:731][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.18.20:731][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.18.20:731][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.18.20:731][386]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2026.10.28-10.19.15:215][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.28-10.19.15:922][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.19.15:985][856]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.19.16:004][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.19.16:004][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.19.16:008][856]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.19.16:008][856]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameMode5E0ECD00401EC554FDA81FAB43B52978.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.19.16:014][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.250 ms (total: 1.45 sec)
+[2026.10.28-10.19.16:046][856]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.19.16:046][856]LogContentValidation: Enabled validators:
+[2026.10.28-10.19.16:046][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.19.16:046][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.19.16:046][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.19.16:046][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.19.16:046][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.19.16:046][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.19.16:047][856]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.19.27:399][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.19.27:792][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.19.27:831][186]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.19.27:852][186]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/GM_MyGameMode.GM_MyGameMode]
+[2026.10.28-10.19.27:852][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.19.27:856][186]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.19.27:856][186]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameModeB377EEF04B1119DEC1E73BA964379044.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.19.27:862][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.817 ms (total: 1.52 sec)
+[2026.10.28-10.19.27:896][186]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.19.27:896][186]LogContentValidation: Enabled validators:
+[2026.10.28-10.19.27:896][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.19.27:896][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.19.27:896][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.19.27:896][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.19.27:896][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.19.27:896][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.19.27:896][186]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.21.02:147][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.28-10.21.03:858][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.21.03:896][310]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-10.21.03:918][310]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-10.21.03:918][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-10.21.03:918][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-10.21.03:923][310]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-10.21.03:923][310]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Tile6419D4614DCCBB9B0101D0906A310080.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-10.21.03:929][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.176 ms (total: 1.60 sec)
+[2026.10.28-10.21.03:981][310]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.21.03:981][310]LogContentValidation: Enabled validators:
+[2026.10.28-10.21.03:981][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.21.03:981][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.21.03:981][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.21.03:981][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.21.03:981][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.21.03:981][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.21.03:982][310]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-10.21.54:092][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2420.456299
+[2026.10.28-10.21.54:275][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-10.21.54:275][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2420.629883, Update Interval: 333.143097
+[2026.10.28-10.22.01:057][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.22.01:598][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.22.01:628][ 57]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Tile] ([2] browsable assets)...
+[2026.10.28-10.22.01:647][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tile.BP_Tile]
+[2026.10.28-10.22.01:647][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tile]
+[2026.10.28-10.22.01:647][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tile" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset" SILENT=true
+[2026.10.28-10.22.01:651][ 57]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tile
+[2026.10.28-10.22.01:651][ 57]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_Tile6DA53E5F4786EB26300EEE88643F4DAC.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_Tile.uasset'
+[2026.10.28-10.22.01:657][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.798 ms (total: 1.65 sec)
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: Enabled validators:
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.22.01:717][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.22.01:717][ 57]AssetCheck: /Game/Blueprints/BP_Tile Validating asset
+[2026.10.28-10.26.39:804][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.26.39:863][ 44]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/GM_MyGameMode] ([2] browsable assets)...
+[2026.10.28-10.26.39:863][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_MyGameMode]
+[2026.10.28-10.26.39:866][ 44]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_MyGameMode
+[2026.10.28-10.26.39:866][ 44]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/GM_MyGameModeB52173744C0CFD323E8838AFB10279A0.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/GM_MyGameMode.uasset'
+[2026.10.28-10.26.39:872][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.026 ms (total: 1.72 sec)
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: Enabled validators:
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.26.39:928][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.26.39:928][ 44]AssetCheck: /Game/Blueprints/GM_MyGameMode Validating asset
+[2026.10.28-10.26.40:828][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.28-10.28.12:910][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2799.262207
+[2026.10.28-10.28.13:092][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-10.28.13:092][430]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2799.436523, Update Interval: 329.837952
+[2026.10.28-10.33.17:947][332]LogSlate: Window 'Content Browser 3' being destroyed
+[2026.10.28-10.33.17:950][332]LogSlate: Window 'Content Browser 3' being destroyed
+[2026.10.28-10.33.29:220][678]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.28-10.33.29:224][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.28-10.33.29:224][678]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2026.10.28-10.33.29:225][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000983s)
+[2026.10.28-10.33.29:225][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001013s)
+[2026.10.28-10.33.29:272][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.10.28-10.33.29:275][678]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.10.28-10.33.29:277][678]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2026.10.28-10.33.29:277][678]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.28-10.33.29:277][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.28-10.33.29:277][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.28-10.33.29:277][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.28-10.33.29:277][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.28-10.33.29:277][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.28-10.33.29:279][678]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.28-10.33.29:309][678]LogAudioMixer: Display: Using Audio Hardware Device SPDIF Interface (Realtek USB2.0 Audio)
+[2026.10.28-10.33.29:309][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.28-10.33.29:309][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.28-10.33.29:309][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.28-10.33.29:310][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.10.28-10.33.29:310][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.10.28-10.33.29:311][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.10.28-10.33.29:312][678]LogInit: FAudioDevice initialized with ID 3.
+[2026.10.28-10.33.29:312][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.10.28-10.33.29:312][678]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestLevel'.
+[2026.10.28-10.33.29:312][678]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.28-10.33.29:315][678]LogLoad: Game class is 'GameModeBase'
+[2026.10.28-10.33.29:316][678]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2026.10.28-11.33.29
+[2026.10.28-10.33.29:316][678]LogWorld: Bringing up level for play took: 0.000485
+[2026.10.28-10.33.29:317][678]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.10.28-10.33.29:319][678]PIE: Server logged in
+[2026.10.28-10.33.29:320][678]PIE: Play in editor total start time 0,097 seconds.
+[2026.10.28-10.33.29:368][679]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-10.33.35:453][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.28-10.33.35:453][395]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2026.10.28-10.33.35:453][395]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.33.35:453][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.33.35:454][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.28-10.33.35:457][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.33.35:475][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.28-10.33.35:475][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.28-10.33.35:475][395]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.10.28-10.33.35:477][395]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.10.28-10.33.35:482][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.33.35:528][397]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.10.28-10.34.18:327][567]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.10.28-10.34.18:335][567]LogContentBrowser: Creating deferred item: NewWorld
+[2026.10.28-10.34.18:353][569]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.10.28-10.34.22:763][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3169.125000
+[2026.10.28-10.34.22:938][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-10.34.22:938][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3169.293213, Update Interval: 300.151978
+[2026.10.28-10.34.44:734][720]LogContentBrowser: Attempting asset rename: NewWorld -> Test_Level
+[2026.10.28-10.34.44:734][720]LogChaosDD: Creating Chaos Debug Draw Scene for world Test_Level
+[2026.10.28-10.34.44:738][720]LogContentBrowser: End creating deferred item NewWorld
+[2026.10.28-10.34.57:148][126]LogContentBrowser: Attempting asset rename: Test_Level -> LV_Test
+[2026.10.28-10.34.57:211][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.34.57:237][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.28-10.34.57:242][126]LogSavePackage: Moving output files for package: /Game/Levels/LV_Test
+[2026.10.28-10.34.57:242][126]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/LV_Test639D97A94882299A5712F39B0BD35F0F.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Test.umap'
+[2026.10.28-10.34.57:243][126]LogFileHelpers: Saving map 'LV_Test' took 0.033
+[2026.10.28-10.34.57:243][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.852 ms (total: 1.76 sec)
+[2026.10.28-10.34.57:336][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.28-10.34.57:356][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.28-10.34.57:376][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.10.28-10.34.57:438][126]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.34.57:438][126]LogContentValidation: Enabled validators:
+[2026.10.28-10.34.57:438][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.34.57:438][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.34.57:438][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.34.57:438][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.34.57:438][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.34.57:438][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.34.57:438][126]AssetCheck: /Game/Levels/LV_Test Validating asset
+[2026.10.28-10.34.57:483][126]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-10.34.59:549][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.28-10.34.59:550][344]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LV_Test.LV_Test
+[2026.10.28-10.34.59:550][344]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-10.34.59:564][344]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.34.59:564][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.34.59:581][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-10.34.59:583][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.34.59:585][344]LogWorld: UWorld::CleanupWorld for LV_Test, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.34.59:585][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.34.59:604][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.28-10.34.59:624][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.28-10.34.59:625][344]LogStreaming: Display: FlushAsyncLoading(964): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-10.34.59:626][344]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Test'.
+[2026.10.28-10.34.59:626][344]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Test
+[2026.10.28-10.34.59:706][344]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-10.34.59:726][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.28-10.34.59:732][344]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-10.34.59:732][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,038ms to complete.
+[2026.10.28-10.34.59:760][344]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-10.35.13:880][877]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2026.10.28-10.35.13:880][877]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2026.10.28-10.35.13:882][877]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/LV_Test.LV_Test:PersistentLevel.SkyAtmosphere_0
+[2026.10.28-10.35.13:882][877]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/LV_Test.LV_Test:PersistentLevel.SkyAtmosphere_0
+[2026.10.28-10.35.18:219][321]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2026.10.28-10.35.18:219][321]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2026.10.28-10.35.18:221][321]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/LV_Test.LV_Test:PersistentLevel.SkyLight_0
+[2026.10.28-10.35.18:221][321]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/LV_Test.LV_Test:PersistentLevel.SkyLight_0
+[2026.10.28-10.35.30:947][726]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.10.28-10.35.30:947][726]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.10.28-10.35.30:948][726]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/LV_Test.LV_Test:PersistentLevel.DirectionalLight_0
+[2026.10.28-10.35.30:948][726]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/LV_Test.LV_Test:PersistentLevel.DirectionalLight_0
+[2026.10.28-10.35.35:561][200]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.28-10.35.35:561][200]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.28-10.35.35:561][200]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/LV_Test.LV_Test:PersistentLevel.StaticMeshActor_0
+[2026.10.28-10.35.35:562][200]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/LV_Test.LV_Test:PersistentLevel.StaticMeshActor_0
+[2026.10.28-10.36.12:011][422]Cmd: TRANSACTION UNDO
+[2026.10.28-10.36.12:011][422]LogEditorTransaction: Undo Move Elements
+[2026.10.28-10.36.40:962][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.36.41:065][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.28-10.36.41:072][745]LogSavePackage: Moving output files for package: /Game/Levels/LV_Test
+[2026.10.28-10.36.41:072][745]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/LV_TestA07F964742987C9329B000970CB73CE1.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Test.umap'
+[2026.10.28-10.36.41:078][745]LogFileHelpers: Saving map 'LV_Test' took 0.054
+[2026.10.28-10.36.41:084][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.780 ms (total: 1.88 sec)
+[2026.10.28-10.36.41:138][745]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-10.36.41:138][745]LogContentValidation: Enabled validators:
+[2026.10.28-10.36.41:138][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.36.41:138][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.36.41:138][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.36.41:138][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.36.41:138][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.36.41:138][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.36.41:139][745]AssetCheck: /Game/Levels/LV_Test Validating asset
+[2026.10.28-10.37.13:213][438]LogContentBrowser: Attempting asset rename: LV_Test -> LV_Test
+[2026.10.28-10.37.18:642][ 31]LogContentBrowser: Attempting asset rename: LV_Test -> LV_Main
+[2026.10.28-10.37.21:307][ 31]LogSlate: Window 'Message' being destroyed
+[2026.10.28-10.37.21:313][ 31]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+LV_Test
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2026.10.28-10.37.21:327][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-10.37.21:358][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.37.21:364][ 31]LogSavePackage: Moving output files for package: /Game/Levels/LV_Main
+[2026.10.28-10.37.21:364][ 31]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/LV_Main5D6EC4594577C91400E71089A50326C5.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Main.umap'
+[2026.10.28-10.37.21:370][ 31]LogFileHelpers: Saving map 'LV_Main' took 0.042
+[2026.10.28-10.37.21:371][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/LV_Test] ([1] browsable assets)...
+[2026.10.28-10.37.21:371][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/LV_Test]
+[2026.10.28-10.37.21:371][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LV_Test" FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Test.umap" SILENT=true
+[2026.10.28-10.37.21:371][ 31]LogSavePackage: Moving output files for package: /Game/Levels/LV_Test
+[2026.10.28-10.37.21:372][ 31]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/LV_TestCE2A4D1140786C0740B01AA4C076A6DF.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Test.umap'
+[2026.10.28-10.37.21:372][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.523 ms (total: 1.92 sec)
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: Display: Starting to validate 2 assets
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: Enabled validators:
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-10.37.21:439][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-10.37.21:439][ 31]AssetCheck: /Game/Levels/LV_Main Validating asset
+[2026.10.28-10.37.21:439][ 31]AssetCheck: /Game/Levels/LV_Test Validating asset
+[2026.10.28-10.37.21:472][ 31]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-10.37.23:731][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.10.28-10.37.23:733][285]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LV_Main.LV_Main
+[2026.10.28-10.37.23:733][285]Cmd: MAP LOAD FILE="../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Levels/LV_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.28-10.37.23:745][285]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.37.23:745][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.37.23:764][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.28-10.37.23:765][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.37.23:766][285]LogStreaming: Display: FlushAsyncLoading(965): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-10.37.23:767][285]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Main'.
+[2026.10.28-10.37.23:767][285]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Main
+[2026.10.28-10.37.23:786][285]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.28-10.37.23:806][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.10.28-10.37.23:813][285]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.28-10.37.23:813][285]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,041ms to complete.
+[2026.10.28-10.37.23:908][286]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.28-10.38.14:858][321]LogSlate: Window 'GM_MyGameMode' being destroyed
+[2026.10.28-10.38.14:863][321]LogSlate: Window 'GM_MyGameMode' being destroyed
+[2026.10.28-10.38.14:901][321]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.14:903][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.14:930][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.10.28-10.38.14:932][321]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.14:932][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.14:955][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.10.28-10.38.14:955][321]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.14:955][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.15:001][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.28-10.38.16:180][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.28-10.38.16:203][457]LogStall: Shutdown...
+[2026.10.28-10.38.16:203][457]LogStall: Shutdown complete.
+[2026.10.28-10.38.16:226][457]LogSlate: Window 'TowerDefenseJAG - Unreal Editor' being destroyed
+[2026.10.28-10.38.16:308][457]Cmd: QUIT_EDITOR
+[2026.10.28-10.38.16:308][457]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.28-10.38.16:312][458]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.28-10.38.16:312][458]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.28-10.38.16:312][458]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.28-10.38.16:312][458]LogWorld: UWorld::CleanupWorld for LV_Main, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.16:312][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.16:316][458]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.10.28-10.38.16:316][458]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.28-10.38.16:316][458]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.28-10.38.16:319][458]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.16:319][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.16:320][458]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.16:320][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.16:323][458]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.16:323][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.16:324][458]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.10.28-10.38.16:324][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.28-10.38.16:325][458]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.28-10.38.16:325][458]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.10.28-10.38.16:327][458]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.28-10.38.16:475][458]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.10.28-10.38.16:475][458]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.28-10.38.16:475][458]LogAudio: Display: Audio Device unregistered from world 'LV_Main'.
+[2026.10.28-10.38.16:475][458]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.28-10.38.16:476][458]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.10.28-10.38.16:478][458]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.10.28-10.38.16:485][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.28-10.38.16:485][458]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.28-10.38.16:486][458]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2026.10.28-10.38.16:487][458]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.28-10.38.16:488][458]LogExit: Preparing to exit.
+[2026.10.28-10.38.16:530][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.16:542][458]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.28-10.38.17:024][458]LogEditorDataStorage: Deinitializing
+[2026.10.28-10.38.17:163][458]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.28-10.38.17:171][458]LogExit: Editor shut down
+[2026.10.28-10.38.17:172][458]LogExit: Transaction tracking system shut down
+[2026.10.28-10.38.17:259][458]LogExit: Object subsystem successfully closed.
+[2026.10.28-10.38.17:376][458]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.10.28-10.38.17:435][458]LogMemoryProfiler: Shutdown
+[2026.10.28-10.38.17:435][458]LogNetworkingProfiler: Shutdown
+[2026.10.28-10.38.17:435][458]LoadingProfiler: Shutdown
+[2026.10.28-10.38.17:435][458]LogTimingProfiler: Shutdown
+[2026.10.28-10.38.17:435][458]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.28-10.38.17:435][458]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.28-10.38.17:687][458]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.28-10.38.17:726][458]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.28-10.38.17:726][458]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7BB5A4E-4BB2-9F76-A14C-A28DB2F919BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f85bec6c47e25066ef848984d157fd93%7C251a3611fbd1456a9322cbfb3416f812%7Ccf1eb214-7809-4bb2-a4ba-911fb4679093&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.28-10.38.18:281][458]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.28-10.38.18:282][458]RenderDocPlugin: plugin has been unloaded.
+[2026.10.28-10.38.18:289][458]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.28-10.38.18:291][458]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.10.28-10.38.18:291][458]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.10.28-10.38.18:291][458]LogPakFile: Destroying PakPlatformFile
+[2026.10.28-10.38.18:623][458]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.28-10.38.18:660][458]LogExit: Exiting.
+[2026.10.28-10.38.18:673][458]Log file closed, 10/28/26 11:38:18
