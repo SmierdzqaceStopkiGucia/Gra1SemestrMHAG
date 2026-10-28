@@ -1156,3 +1156,50 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/Mi_Kulka_Inst has a v
 [2026.10.28-11.00.28:430][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 638.442505
 [2026.10.28-11.00.29:431][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.28-11.00.29:431][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 639.109192, Update Interval: 336.462891
+[2026.10.28-11.06.07:184][399]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.06.07:242][399]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.10.28-11.06.11:198][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 981.210632
+[2026.10.28-11.06.11:359][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-11.06.11:359][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerBase] ([2] browsable assets)...
+[2026.10.28-11.06.11:359][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerBase]
+[2026.10.28-11.06.11:363][847]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerBase
+[2026.10.28-11.06.11:363][847]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_PlayerBase5260099E4DFC45D3B7BD9F8E2F1642EF.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_PlayerBase.uasset'
+[2026.10.28-11.06.11:364][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.236 ms
+[2026.10.28-11.06.11:433][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.10.28-11.06.11:447][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.10.28-11.06.11:461][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.10.28-11.06.11:475][847]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.10.28-11.06.11:475][847]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-11.06.11:475][847]LogContentValidation: Enabled validators:
+[2026.10.28-11.06.11:475][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-11.06.11:475][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-11.06.11:475][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-11.06.11:475][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-11.06.11:475][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-11.06.11:475][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-11.06.11:475][847]AssetCheck: /Game/Blueprints/BP_PlayerBase Validating asset
+[2026.10.28-11.06.11:483][847]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.28-11.06.11:487][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.28-11.06.11:487][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 981.494507, Update Interval: 346.030457
+[2026.10.28-11.06.16:886][482]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.28-11.06.16:942][482]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.10.28-11.06.19:150][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.28-11.06.19:150][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_projectile] ([2] browsable assets)...
+[2026.10.28-11.06.19:150][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_projectile]
+[2026.10.28-11.06.19:153][702]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_projectile
+[2026.10.28-11.06.19:153][702]LogSavePackage: Moving '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/BP_projectile3790CDE64A77F3546F8B58945434A405.tmp' to '../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Content/Blueprints/BP_projectile.uasset'
+[2026.10.28-11.06.19:155][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.869 ms (total: 10.105 ms)
+[2026.10.28-11.06.19:189][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.10.28-11.06.19:203][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.28-11.06.19:216][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.10.28-11.06.19:230][702]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.10.28-11.06.19:230][702]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.28-11.06.19:230][702]LogContentValidation: Enabled validators:
+[2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.28-11.06.19:230][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.28-11.06.19:230][702]AssetCheck: /Game/Blueprints/BP_projectile Validating asset
+[2026.10.28-11.06.19:236][702]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/LAB1-Student03/Documents/GitHub/Gra1SemestrMHAG/TowerDefenseJAG/Saved/SourceControl/UncontrolledChangelists.json
